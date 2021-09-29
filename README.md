@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chetan Saini
-- 🌱 I am a 1st year Student at Vellore Institute of Technology,Bhopal pursuing Int. M.Tech Computer Science and Engineering with spl. in Computational and Data Science.
-- 👀 I know  C++ and Python
+- 🌱 I am a 2nd year Student at Vellore Institute of Technology,Bhopal pursuing Int. M.Tech Computer Science and Engineering with spl. in Computational and Data Science.
+- 👀 I know  C++, java and Python
 - passionate to learn new things
    ## Hobbies
 - Travelling
