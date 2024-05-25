@@ -1,6 +1,5 @@
 - Hi, This is Chetan Saini from Delhi.
 - I am a 4th year Student at Vellore Institute of Technology,Bhopal pursuing Int. M.Tech Computer Science and Engineering with spl. in Computational and Data Science.
-- I am a Data Science Enthusiast.
 
 # GitHub Analytics
 
